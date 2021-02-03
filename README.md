@@ -7,10 +7,10 @@
 
 ## Screen Captures
 #### Login Page:
-![First Page](./screenshots/input_name.png)
+![First Page](./screenshots/first_screen.png)
 
 #### Landing Page:
-![Landing Page](./screenshots/landing_page.png)
+![Landing Page](./screenshots/main_screen.png)
 
 #### Details Page:
-![Details Page](./screenshots/details_page.png)
+![Details Page](./screenshots/detail_screen.png)
